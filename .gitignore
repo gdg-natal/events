@@ -90,7 +90,7 @@ ENV/
 
 # Node folders and files
 
-node_components/
+node_modules/
 bower_components/
 *.log
 
